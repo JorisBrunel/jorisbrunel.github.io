@@ -1,0 +1,14 @@
+{
+    "period": "Période",
+    "project": "Projet",
+    "company": "Entreprise",
+    "description": "Description",
+    "tasks": "Taches",
+    "team": "Equipe",
+    "stack": "Stack",
+    "skills": "Compétences",
+    "experiences": "Expériences",
+    "trainings": "Etudes et formation",
+    "self_desc": "7 ans d'expérience sur Angular, depuis la version 3 jusqu'à la dernière (le nouveau control flow 👑)",
+    "self_title": "Team Leader / Angular Developer"
+}
